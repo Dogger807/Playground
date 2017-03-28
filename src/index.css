@@ -1,0 +1,39 @@
+body {
+  padding: 15px;
+  background-color: slategray;
+  font-family: Verdana;
+  font-size: 12pt;
+}
+
+.deleteUser {
+  -webkit-text-fill-color: darkblue;
+  font-weight: bold
+}
+
+table{
+  text-align: center;
+  border: 10px;
+  border-style: ridge;
+  width: 65%;
+  border-color: tomato;
+  max-width: 70%;
+  min-width: 20%
+}
+
+table th {
+  border: 1;
+  background-color: maroon;
+  -webkit-text-fill-color: orange;
+  padding: 10px
+}
+
+tbody {
+  -webkit-text-fill-color: lightgoldenrodyellow;
+  background-color: mediumvioletred
+}
+
+h1 {
+  font-family: Georgia;
+  -webkit-text-fill-color: firebrick
+}
+
