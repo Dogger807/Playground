@@ -1,5 +1,5 @@
 import './index.css';
-
+// require ("./Images/Pie.png");
 import {getUsers, deleteUser} from './api/userApi';
 
 // Populate table of users via API call.

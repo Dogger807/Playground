@@ -1,9 +1,10 @@
 body {
+  /* background-image: url("./Images/Pie.png"); */
   padding: 0px;
   margin: 0px 10px 0 10px;
   background-color: slategray;
   font-family: Verdana;
-  font-size: 12pt;
+  font-size: 12pt
 }
 
 .deleteUser {
@@ -12,11 +13,9 @@ body {
 }
 
 table{
+  border: 7px ridge tomato;
   text-align: center;
-  border: 10px;
-  border-style: ridge;
   width: 60%;
-  border-color: tomato;
   max-width: 70%;
   min-width: 20%
 }
@@ -43,7 +42,6 @@ tbody {
   border-style: inset;
   border-width: 7px;
   text-align: center;
-  text-justify: center;
   margin-right: 10px;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 1.5em;
@@ -67,11 +65,15 @@ tbody {
 
 }
 
+.Titlebar:hover {
+  background-color: darksalmon
+}
+
 .Titlechild {
   margin:0px;
   padding: 0px;
   font-size: 1.7em;
   line-height: 90px;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  text-shadow: 3px 3px 5px orchid
+  text-shadow: 3px 3px 5px palevioletred
 }
