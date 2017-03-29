@@ -55,6 +55,9 @@ tbody {
 .Titlebar {
   position: relative;
   padding: 0px;
+  border-bottom: 10px;
+  border-bottom-style: groove;
+  border-bottom-color: darkblue;
   top: -40px;
   text-align: center;
   margin: 0px;
